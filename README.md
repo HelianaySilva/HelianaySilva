@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil da Nanay Silva 😁
+## Bem-vindo(a) ao perfil da Helianay Silva 😁
 
  <div>
-   <a href="https://github.com/Nanaysilva">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nanaysilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanaysilva&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/Helianaysilva">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Helianaysilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helianaysilva&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
